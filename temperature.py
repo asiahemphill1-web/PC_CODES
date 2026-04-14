@@ -1,2 +1,2 @@
 def to_celsius(fahrenheit):
-    return round((fahrenheit - 32) * 5 / 9, 1)1
+    return round((fahrenheit - 32) * 5 / 9, 1)
